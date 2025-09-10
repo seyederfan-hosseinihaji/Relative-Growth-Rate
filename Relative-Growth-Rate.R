@@ -13,7 +13,7 @@ t2 <- 30
 #relative growth rate (RGR) formula:
 RGR <- round((log(w2) - log(w1)) / (t2 - t1), 2)
 
-# if RGR is greater than 0, the answer will be TRUE
+# if RGR is greater than 0, the answer will be TRUE, which means the plant has grown
 Grew <- isTRUE( RGR > 0 )
 
 # If the RGR is greater than 0, this text will be printed:
