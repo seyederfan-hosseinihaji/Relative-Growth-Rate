@@ -1,3 +1,9 @@
+###################################
+# This is a practice project. Comments are deliberately detailed to enhance my learning.
+# I understand this level of commenting may be excessive for professional code.
+###################################
+
+
 #insert initial plant dry weight (g)
 w1 <- 2.5
 
